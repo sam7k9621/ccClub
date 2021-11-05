@@ -2,4 +2,5 @@
 setup.cfg
 setup.py
 ccClub/__init__.py
+ccClub/homework/hw1.pyc
 test/a.txt
