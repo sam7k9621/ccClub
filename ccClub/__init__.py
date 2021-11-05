@@ -1,1 +1,1 @@
-from ccClub.hw1 import ans
+from ccClub.homework.hw1 import ans
