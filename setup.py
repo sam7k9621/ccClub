@@ -11,7 +11,7 @@ setup(
   download_url = 'https://github.com/sam7k9621/ccClub/archive/refs/tags/v_11.tar.gz',    # I explain this later on
   keywords = ['hw'],   # Keywords that define your package best
   include_package_data = True,
-  package_data={'ccClub': ['homework/*.pyc']},
+  package_data={'ccClub': ['homework/*.py']},
   install_requires=[            # I get to this in a second
       ],
   classifiers=[
