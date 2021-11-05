@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 ccClub/__init__.py
+test/a.txt
