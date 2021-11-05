@@ -8,7 +8,7 @@ setup(
   author = 'Sam',                   # Type in your name
   author_email = 'sam7k9621@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/sam7k9621/ccClub',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/sam7k9621/ccClub/archive/refs/tags/v_02.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/sam7k9621/ccClub/archive/refs/tags/v_03.tar.gz',    # I explain this later on
   keywords = ['hw'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
       ],
